@@ -9,4 +9,5 @@
 
 ## Challenge 3: Robot Following Line
 [![Watch the video](https://img.youtube.com/vi/TpEJcigBHBk/hqdefault.jpg)](https://www.youtube.com/embed/TpEJcigBHBk)
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/TpEJcigBHBk/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
