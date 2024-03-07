@@ -8,5 +8,5 @@
 ![Challenge 2: Assembly](RobotAssemblyCh2.jpg)
 
 ## Challenge 3: Robot Following Line
-![Video](https://www.youtube.com/watch?v=TpEJcigBHBk)
+[![Watch the video](https://img.youtube.com/vi/TpEJcigBHBk/hqdefault.jpg)](https://www.youtube.com/embed/TpEJcigBHBk)
 
