@@ -6,5 +6,5 @@
 ![Challenge 2: Assembly](RobotAssemblyCh2.jpg)
 
 ## Challenge 3: Robot Following Line
-![Robot Following Line Video](https://github.com/jxnlee/ECE5-Robot-Project/assets/44052840/5aed997d-a88f-41d7-b1a3-f64ea754d4b9)
+https://github.com/jxnlee/ECE5-Robot-Project/assets/44052840/5aed997d-a88f-41d7-b1a3-f64ea754d4b9
 
