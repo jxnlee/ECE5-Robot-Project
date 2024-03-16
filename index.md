@@ -36,7 +36,7 @@ Keeping this in mind, we adjusted PID accordingly to the tracks:
   * Low D values, while we wanted to account for overshoot, since no sharp turns were being made we didn't need to have values for D to be too high   
 
 ## Code Modifications:
-We modified the code so that the base speed. Some attempts were made to modify the code to have more precise calibration of black and white lines and to also reduce the risk of misreading shadows and following those readings.
+We modified the code so that the base speed was higher. Some attempts were made to modify the code to have more precise calibration of black and white lines and to also reduce the risk of misreading shadows and following those readings.
 
 ## Poster:
 ![Poster](Assets/Lab_4_Poster.jpg)
