@@ -54,6 +54,11 @@ We modified the code so that the base speed was higher. Some attempts were made 
   * Rank: Bottom Ranking (Passing number of loops)
 
 ## Videos From Competition!
+### Loop
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/zCNcFpHJD1w/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+### Frequency Sweep
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/kkKtLpsam9g/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+### Drag Race
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/5EIIItluy8E/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Team Picture From Competition Day!
