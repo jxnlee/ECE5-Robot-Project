@@ -44,14 +44,14 @@ We modified the code so that the base speed. Some attempts were made to modify t
 ## Competition Scores and Rankings for each Track:
 * Drag Race
   * Time: 18.41 seconds
-  * Rank:
+  * Rank: Lost early in losing bracket (Competed in 2 rounds and lost in both)
 * Freq Sweep
   * Distance: 8
   * Time: 14.3 seconds
-  * Rank: 
+  * Rank: Lower Ranking (Somewhat decent distance but only reaching the next stop after passing)
 * Loop:
   * Number of Loops: 2
-  * Rank: 
+  * Rank: Bottom Ranking (Passing number of loops)
 
 ## Videos From Competition!
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
