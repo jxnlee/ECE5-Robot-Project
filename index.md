@@ -54,7 +54,7 @@ We modified the code so that the base speed was higher. Some attempts were made 
   * Rank: Bottom Ranking (Passing number of loops)
 
 ## Videos From Competition!
-<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/5EIIItluy8E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+<iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/5EIIItluy8E/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Team Picture From Competition Day!
 ![Team Photo](Assets/Group_Photo.jpg)
