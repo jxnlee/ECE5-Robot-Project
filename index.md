@@ -24,12 +24,16 @@
 ## Competition Scores and Rankings for each Track:
 * Drag Race - Time and Rank
 * Freq Sweep - Distance, Time, and Rank
-* Loop - Num Loops and Rank
+* Loop:
+  * Number of Loops: 2
+  * Ranking: 
 
 ## Videos from Competition
 * At least show ur robot competing on one of the tracks during competition day!
 
 ## Team Picture (include each member) from competition day!
+![
 
 ## 4-6 sentences on improvements made during the last week and improvements you wish you made (or if given more time would have)
+In the last week, we optimized our chassis by printing one that would allow for more organized placement of our components. Additionally,  
 
