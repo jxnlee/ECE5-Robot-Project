@@ -11,7 +11,7 @@
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/TpEJcigBHBk/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Final Competition Robot
-![Final Competition Robot Img Here]()
+![Final Competition Robot Img Here](Assets/Final_Competition_Robot.jpg)
 
 ## Explanation of PID Control:
 Throughout the competition, we adjusted PID values according to the track, situation, and any observed behaviors. We adjusted them based on the following:
