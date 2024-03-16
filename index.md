@@ -39,7 +39,7 @@ Keeping this in mind, we adjusted PID accordingly to the tracks:
 We modified the code so that the base speed. Some attempts were made to modify the code to have more precise calibration of black and white lines and to also reduce the risk of misreading shadows and following those readings.
 
 ## Poster:
-!(Poster)[Assets/Lab_4_Poster.jpg]
+![Poster](Assets/Lab_4_Poster.jpg)
 
 ## Competition Scores and Rankings for each Track:
 * Drag Race
@@ -57,7 +57,7 @@ We modified the code so that the base speed. Some attempts were made to modify t
 <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
 
 ## Team Picture From Competition Day!
-!(Team Photo)[Assets/Group_Photo.jpg]
+![Team Photo](Assets/Group_Photo.jpg)
 
 ## Improvements Made and Ones We Wish to Make / Didn't Have Time to Make
 In the last week, we optimized our chassis by printing one that would allow for more organized placement of our components and allow our photoresistors to read closer to the ground. As a result, our final competition robot was able to get better and more consistent calibrations and readings. We also were able to make it more convenient to make changes to our robot and to adjust PID values. We also made sure to make some tests for PID values to better optimize them for different tracks. Unfortunately in our last week, as we moved to the new chassis we found that our motors and wheels were failing to work properly (In one iteration the wheel couldn't connect properly and in the next, the motors would react inconsistently on their own). In our last attempt, we were able to get better motors attached but had little time to diagnose for errors and bugs and thus, ended up with a disappointing result despite all of our efforts. We wish to have improved the robot to move smoother and faster by optimizing the weight and PID values and fixing any errors, unfortunately, we ran out of time but still managed to build a functioning robot even if it wasn't to our expectations.
